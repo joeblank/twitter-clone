@@ -130,6 +130,9 @@ body {
 		#tweet-controls {
 			text-align: right;
 		}
+		.toggle-tweet-controls {
+			display: none;
+		}
 			#tweet-controls div {
 				display: inline-block;
 			}
@@ -258,5 +261,3 @@ body {
 				top: 0;
 				left: 0;
 			}
-
-
